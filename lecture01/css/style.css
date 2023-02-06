@@ -1,0 +1,172 @@
+/* Desarrollo Web 1 */
+/* Nombre Práctica: Hola Mundo */
+/* Autor/a: Hugo Corona*/
+/* Fecha de elaboración: 05/02/2023 */
+
+
+
+.mx{
+top: 115px;
+right: 0;
+bottom: 0;
+left: 850px;
+
+font-size: 120px;
+font-family: 'Noto Serif', serif;
+
+position: absolute;
+z-index: 100;
+color: #76FF61;
+-webkit-text-stroke: 1px #3bb329;
+
+}
+
+.us{
+    top: 100px;
+    right: 0;
+    bottom: 0;
+    left: 800px;
+    
+    font-size: 80px;
+    font-family: 'Arimo', sans-serif;
+    
+    position: absolute;
+    z-index: 10;
+    color: #5aa9e6;
+    -webkit-text-stroke: 1px #3c88c3;
+}
+
+.jp{
+    top: 250px;
+    right: 0;
+    bottom: 0;
+    left: 650px;
+    
+    font-size: 70px;
+    font-family: 'Noto Sans JP', sans-serif;
+    
+    position: absolute;
+    z-index: 10;
+    color: #FF6176;
+    -webkit-text-stroke: 1px #d43e52;
+}
+
+.it{
+    top: 180px;
+    right: 0;
+    bottom: 0;
+    left: 700px;
+    
+    font-size: 70px;
+    font-family: 'Itim', cursive;
+    
+    position: absolute;
+    z-index: 10;
+    color: #FFB561;
+    -webkit-text-stroke: 1px #ef9b3a;
+}
+
+.hw{
+    top: 100px;
+    right: 0;
+    bottom: 0;
+    left: 650px;
+    
+    font-size: 60px;
+    font-family: 'Lobster', cursive;
+    
+    position: absolute;
+    z-index: 10;
+    color: #FF61AB;
+    -webkit-text-stroke: 1px #c73579;
+}
+
+.ru{
+    top: 220px;
+    right: 0;
+    bottom: 0;
+    left: 500px;
+    
+    font-size: 60px;
+    font-family: 'Noto Sans JP', sans-serif;
+    
+    position: absolute;
+    z-index: 9;
+    color: #61FFB5;
+    -webkit-text-stroke: 1px #31c17e;
+}
+
+.ko{
+    top: 140px;
+    right: 0;
+    bottom: 0;
+    left: 350px;
+    
+    font-size: 55px;
+    font-family: 'Indie Flower', cursive;
+    
+    position: absolute;
+    z-index: 9;
+    color: #FF8161;
+    -webkit-text-stroke: 1px #e16444;
+}
+
+.po{
+    top: 80px;
+    right: 0;
+    bottom: 0;
+    left: 820px;
+    
+    font-size: 50px;
+    font-family: 'Indie Flower', cursive;
+    
+    position: absolute;
+    z-index: 9;
+    color: #ABFF61;
+    -webkit-text-stroke: 1px #7cce33;
+}
+
+.hi{
+    top: 200px;
+    right: 0;
+    bottom: 0;
+    left: 550px;
+    
+    font-size: 40px;
+    font-family: 'Lobster', cursive;
+    
+    position: absolute;
+    z-index: 9;
+    color: #7161ef;
+    -webkit-text-stroke: 1px #5746d5;
+}
+
+.he{
+    top: 70px;
+    right: 0;
+    bottom: 0;
+    left: 520px;
+    
+    font-size: 60px;
+    font-family: 'Itim', cursive;
+    
+    position: absolute;
+    z-index: 9;
+    color: #70d6ff;
+    -webkit-text-stroke: 1px #4ab9e5;
+}
+
+.sw{
+    top: 5px;
+    right: 0;
+    bottom: 0;
+    left: 630px;
+    
+    font-size: 80px;
+    font-family: 'Noto Serif', serif;
+    
+    position: absolute;
+    z-index: 5;
+    color: #ffd670;
+    -webkit-text-stroke: 1px #ffc83e;
+}
